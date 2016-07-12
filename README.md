@@ -5,4 +5,4 @@ Il faut avoir Node et npm d'installés.
 
 Cloner le repo, lancer
 
-  'npm install && grunt'
+  `npm install && grunt`
