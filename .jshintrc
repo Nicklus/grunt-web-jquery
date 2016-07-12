@@ -1,0 +1,19 @@
+// JSHint config pour jQuery
+
+{
+    "boss": true,
+    "curly": true,
+    "eqeqeq": true,
+    "eqnull": true,
+    "expr": true,
+    "immed": true,
+    "noarg": true,
+    "quotmark": "double",
+    "smarttabs": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "jquery": true,
+    "browser": true,
+    "devel": true
+}
